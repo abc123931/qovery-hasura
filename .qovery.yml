@@ -9,6 +9,6 @@ databases:
 routers:
 - name: main
   routes:
-  - application_name: qovery-hasura
+  - application_name: hasura
     paths:
     - /*
